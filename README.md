@@ -1,6 +1,4 @@
-## Hi there 👋
-
-I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
+## Hi there, I'm Vinh 👋
 
 **I love working with**
 
