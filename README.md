@@ -1,6 +1,10 @@
-## Hi there, I'm Vinh 👋
+## About me 👋 
 
-**I love working with**
+👋 Hi everyone, I'm Vinh (trnvihh)
+I'm **Fullstack developer** 👨🏻‍💻
+
+My contact <img src="https://icons8.com/icon/PMlkV8LSgBdN/link"/>
+
 
 <div display="flex">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
