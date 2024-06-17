@@ -10,9 +10,10 @@ I'm **Fullstack developer** 👨🏻‍💻
 
 
 <div display=flex justifyContent="center alignItems="center">
-  <div>[![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](https://skillicons.dev) <div>
+  [![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](https://skillicons.dev)
   <a href="trnvihh@gmail.com">trnvihh@gmail.com</a>
 </div>
+
 
 [![My Skills](https://skillicons.dev/icons?i=instagram&theme=light)](https://skillicons.dev) <a href="https://www.instagram.com/trnvihh">trnvihh</a>
 
