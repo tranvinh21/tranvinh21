@@ -9,7 +9,7 @@ I'm **Fullstack developer** 👨🏻‍💻
 
 
 
-<a align="center">
+<a align="center" display="flex">
   <a href="trnvihh@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
   </a>
