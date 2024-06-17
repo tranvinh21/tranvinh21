@@ -9,12 +9,12 @@ I'm **Fullstack developer** 👨🏻‍💻
 
 
 
-<a align="center" display="flex" justifyContent="center" alignItem="center">
+<div align="center" display="flex" justifyContent="center" alignItem="center">
   <a href="trnvihh@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
   </a>
   <a href="trnvihh@gmail.com">trnvihh@gmail.com</a>
-</a>
+</div>
 
 
 [![My Skills](https://skillicons.dev/icons?i=instagram&theme=light)](https://skillicons.dev) <a href="https://www.instagram.com/trnvihh">trnvihh</a>
