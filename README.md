@@ -7,13 +7,21 @@ I'm **Fullstack developer** 👨🏻‍💻
 ## My contact 
 
 
-<div style="display:flex; flex-direction: column"> 
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    [![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](https://skillicons.dev)
+  </a>
+</p>
+
+
 [![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](https://skillicons.dev) <a href="trnvihh@gmail.com">trnvihh@gmail.com</a>
 
 [![My Skills](https://skillicons.dev/icons?i=instagram&theme=light)](https://skillicons.dev) <a href="https://www.instagram.com/trnvihh">trnvihh</a>
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://skillicons.dev) <a href="https://www.linkedin.com/in/vinh-tran-17558b258/">Vinh Tran</a>
-<div>
+
 
 
 
